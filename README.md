@@ -4,13 +4,13 @@
 팀원
 강우진 심혜진 한재욱 이성욱 한정훈 박지연 규석쓰(도망자)
 
-관리자 사이트 - 한정훈,정성호,이성욱  
-메인 사이트 - 강우진,심혜진,박지연,한재욱
-사용툴 : Eclipse,MariaDB,WorkBench,Notion
-개발언어 : java,json,jsp,js,Ajax,jqurey,html,css,javascript 등
-버전관리 : github
-API : 카카오지도 API, 카카오 로그인 API , 네이버 로그인 API 등
-협업환경 :Notion으로 데이터 베이스 수정시 기재, DB담당자가 확인 
+관리자 사이트 - 한정훈,정성호,이성욱  <br>
+메인 사이트 - 강우진,심혜진,박지연,한재욱<br>
+사용툴 : Eclipse,MariaDB,WorkBench,Notion<br>
+개발언어 : java,json,jsp,js,Ajax,jqurey,html,css,javascript 등<br>
+버전관리 : github<br>
+API : 카카오지도 API, 카카오 로그인 API , 네이버 로그인 API 등<br>
+협업환경 :Notion으로 데이터 베이스 수정시 기재, DB담당자가 확인 <br>
 
 
                            프로젝트 일정 
