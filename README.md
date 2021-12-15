@@ -4,7 +4,7 @@
 팀원
 강우진 심혜진 한재욱 이성욱 한정훈 박지연 규석쓰(도망자)
 
-관리자 사이트 - 한정훈,정성호,이성욱
+관리자 사이트 - 한정훈,정성호,이성욱  
 메인 사이트 - 강우진,심혜진,박지연,한재욱
 사용툴 : Eclipse,MariaDB,WorkBench,Notion
 개발언어 : java,json,jsp,js,Ajax,jqurey,html,css,javascript 등
