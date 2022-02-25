@@ -3,7 +3,7 @@
 스프링을 이용한 쇼핑몰 웹페이지 구축.<br><br>
 ![팀프_포폴용 사진 1](https://user-images.githubusercontent.com/65275693/150911770-24558ad5-5afc-4c88-857f-765533b50a53.png)
 
-Demo : http://itwillbs3.cafe24.com/main
+Demo : http://khai1997.cafe24.com/main
 
 ---
  
